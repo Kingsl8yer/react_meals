@@ -1,10 +1,12 @@
-import React from 'react';
+import React, {Fragment} from 'react';
+import Header from "./components/Layout/Header";
+import './App.css';
 
 const App = () => {
     return (
-        <div>
-        <h1>React Boilerplate</h1>
-        </div>
+        <Fragment>
+            <Header />
+        </Fragment>
     );
 }
 
