@@ -11,6 +11,13 @@
     margin: 3rem;
 }
 
+.MealsError {
+    text-align: center;
+    font-size: 2rem;
+    margin: 3rem;
+    color: red;
+}
+
 .meals ul {
     list-style: none;
     margin: 0;
